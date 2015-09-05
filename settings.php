@@ -2,8 +2,7 @@
 
 define('DS', DIRECTORY_SEPARATOR);
 
-function e($var)
-{
+function e($var) {
     echo "<pre>";
     print_r($var);
     echo "</pre>";
