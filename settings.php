@@ -8,8 +8,7 @@ function e($var) {
     echo "</pre>";
 }
 
-function gc($var)
-{
+function gc($var) {
     return get_class_methods($var);
 }
 
